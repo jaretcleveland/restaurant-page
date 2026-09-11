@@ -1,0 +1,1 @@
+console.log("Hello, World!"); // Test to ensure the JavaScript file is being executed correctly.
